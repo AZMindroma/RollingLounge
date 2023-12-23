@@ -13,7 +13,10 @@ The versions of Rolling Sky Remake (on Android) from 1.0r and later do not suppo
 This means it not changing to portrait is intended behavior and will stay that way. To play RSR in portrait mode, you may install a Screen Orientation app from the Play Store to force RSR to go to portrait mode. This however was reported to make the sensitivity of the ball weird.
 
 **I'm on iOS! What fanmades can I play? Everything just seems to be available on Android.**
-Since making apps for iOS with Unity requires Xcode (requires a macOS device) or Unity Build Automation (not free) and a lack of testing opportunities, not every fanmade can afford making iOS builds. There are some iOS builds available though
+Since making apps for iOS with Unity requires Xcode (requires a macOS device) or Unity Build Automation (not free) and a lack of testing opportunities, not every fanmade can afford making iOS builds, like Rolling Sky Remake. There are iOS builds for some other fanmades though, which you can find in #fanmade-downloads. 
+
+**I'm banned from the [Fanmade] server!**
+We do not have direct affiliation with any servers outside the Rolling Lounge Network (#portal), therefore we cannot help in that regard, nor can those bans be appealed in the RL | Appeal district. 
 
 **I want to play/need help with Rolling Time/Sphere/Zealous/Renaissance!**
 We cannot provide official support for those fanmades since we are not partnered with their respective owners. You may ask people for help, but we cannot guarantee that people will know how to help.
