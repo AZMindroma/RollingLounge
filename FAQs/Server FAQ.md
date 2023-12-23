@@ -21,3 +21,6 @@ At certain times, staff applications are opened in which you can apply to become
 
 **How do I put suggestions into #suggestions?**
 You may suggest anything regarding the server (not Rolling Sky, fanmades etc.) by typing ?suggest, following with your suggestion in #bot-cmds. Your suggestion will then appear in #suggestions.
+
+**I am asking a question regarding RS/Fanmades in chat but I'm getting ignored!**
+Rolling Lounge is and stays a community server, a melting pot of various interests. There are people who don't even play Rolling Sky or its fanmades but still chat here. Especially in general chats it may be hard to find people who are proficient in the questions you ask. Please do not be mad at members for ignoring since most likely they don't know the answer. Make sure to ask questions in #support or more topic-specific chats, for example help with RSR in #rsr-help. 
