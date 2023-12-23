@@ -5,3 +5,5 @@ Officially, Rolling Lounge only distributes certain fanmades which include Rolli
 **Why is Rolling Fanmade/Rolling Unlimited/Rolling World not opening?**
 Rolling Fanmade, Rolling Unlimited and Rolling World have a **timebomb**, a feature that only allows the game to be played in certain dates (in order to encrypt the game). If you wish to continue playing any of these games __after their timebomb expires__, you must **change the date of your device.** You may find the appropiate dates to change your device version to in #fanmade-downloads.
 
+s
+
